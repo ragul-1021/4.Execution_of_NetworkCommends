@@ -27,6 +27,16 @@ This commands includes
 <BR>
 
 ## Output
+### netstat
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5aa7c734-f0b8-4831-be7e-9e8101f4a6cc" />
+
+### ipconfig
+<img width="982" height="707" alt="image" src="https://github.com/user-attachments/assets/3019b0fa-5a2d-45a6-b64d-752310c3bba2" />
+
+### ping
+<img width="982" height="707" alt="image" src="https://github.com/user-attachments/assets/517d2bc5-b246-4caf-8ce5-182218c41f27" />
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
