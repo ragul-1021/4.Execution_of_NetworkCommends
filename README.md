@@ -34,7 +34,11 @@ This commands includes
 <img width="982" height="707" alt="image" src="https://github.com/user-attachments/assets/3019b0fa-5a2d-45a6-b64d-752310c3bba2" />
 
 ### ping
-<img width="982" height="707" alt="image" src="https://github.com/user-attachments/assets/517d2bc5-b246-4caf-8ce5-182218c41f27" />
+<img width="857" height="295" alt="image" src="https://github.com/user-attachments/assets/0ee1291f-2c9f-40cf-a1be-0f4cf376f018" />
+
+### tracert
+<img width="901" height="382" alt="image" src="https://github.com/user-attachments/assets/dd2008a1-38c6-4504-a231-aa4e9502540a" />
+
 
 
 
